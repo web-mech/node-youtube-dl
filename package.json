@@ -10,12 +10,12 @@
   },
   "contributors": [
     {
-      "name": "przemyslawpluta",
-      "email": "przemekpluta@hotmail.com"
+      "name": "Roly Fentanes",
+      "email": "roly426@gmail.com"
     },
     {
-      "name": "Alireza Mirian",
-      "email": "alireza.mirian@gmail.com"
+      "name": "przemyslawpluta",
+      "email": "przemekpluta@hotmail.com"
     },
     {
       "name": "Kiko Beats",
@@ -78,8 +78,8 @@
       "email": "walheresq@hotmail.com"
     },
     {
-      "name": "Roly Fentanes",
-      "email": "roly426@gmail.com"
+      "name": "Alireza Mirian",
+      "email": "alireza.mirian@gmail.com"
     },
     {
       "name": "▟ ▖▟ ▖",
@@ -165,6 +165,7 @@
     "mkdirp": "~0.5.1",
     "request": "~2.88.0",
     "streamify": "~0.2.9",
+    "tor-request": "~3.1.0",
     "universalify": "~0.1.2"
   },
   "devDependencies": {
